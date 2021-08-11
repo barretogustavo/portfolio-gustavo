@@ -15,6 +15,9 @@ ul .project_word{
         &:hover{
             border-bottom:solid 2px black;
         }
+        a:visited{
+            color: black;
+        }
 }
 
 header{
