@@ -1,4 +1,4 @@
-# Portfólio - Gustavo Barreto
+# Portfólio - Gustavo Barreto (Em manutenção)
 Além do meu github com meus projetos, eu desenvolvi com React.JS um site pessoal falando um pouco sobre mim e mostrando meus projetos favoritos.
 
 ## Acesse através do link
